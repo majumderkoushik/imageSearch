@@ -10,7 +10,7 @@ A simple web application for searching and displaying images using the Unsplash 
 
 ## Demo
 
-You can see a live demo of the Image Search App [here]([link_to_your_demo_if_available](https://majumderkoushik.github.io/imageSearch/)https://majumderkoushik.github.io/imageSearch/).
+You can see a live demo of the Image Search App(https://majumderkoushik.github.io/imageSearch/)https://majumderkoushik.github.io/imageSearch/).
 
 
 

@@ -1,5 +1,6 @@
 ## Image Search App
 
+##features
 A simple web application for searching and displaying images using the Unsplash API.
 - Search for images using keywords.
 - Display a grid of images with descriptions.
@@ -9,7 +10,7 @@ A simple web application for searching and displaying images using the Unsplash 
 
 ## Demo
 
-You can see a live demo of the Image Search App [here](link_to_your_demo_if_available).
+You can see a live demo of the Image Search App [here]([link_to_your_demo_if_available](https://majumderkoushik.github.io/imageSearch/)https://majumderkoushik.github.io/imageSearch/).
 
 
 
